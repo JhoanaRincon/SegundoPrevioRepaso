@@ -8,9 +8,9 @@
 		<class>elecciones.entities.Votante</class>
 		<class>elecciones.entities.Voto</class>
 		<properties>
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/elecciones"/>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://node72550-env-4540354.jelastic.saveincloud.net:3306/elecciones"/>
 			<property name="javax.persistence.jdbc.user" value="root"/>
-			<property name="javax.persistence.jdbc.password" value=""/>
+			<property name="javax.persistence.jdbc.password" value="1enpNeW9Cq"/>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
 		</properties>
 	</persistence-unit>
