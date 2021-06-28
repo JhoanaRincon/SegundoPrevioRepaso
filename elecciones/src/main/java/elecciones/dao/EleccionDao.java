@@ -10,7 +10,7 @@ import elecciones.util.Conexion;
 
 import elecciones.entities.Eleccion;
 import elecciones.util.Conexion;
-
+//esto es una nueva actualización para recordar que no se ha realizado
 //no me imprt ahorita
 public class EleccionDao {
 private Conexion conexion;
